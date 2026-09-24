@@ -16,24 +16,6 @@
 
 ---
 
-## ✨ About me
-
-> _"Computers are useless. They can only give you answers."_ — Pablo Picasso
-
-Hey! I'm **Taha**, a CS student obsessed with everything **theoretical** and **mathematical**.
-When I'm not staring at complexity bounds, I'm the neighborhood bartender — serving *coffee*
-to whoever needs one (yes, symbolically and literally).
-
-- 🎓 Studying **Theoretical Computer Science** at **Sharif University of Technology**
-
----
-
-## 🔭 What I'm focusing on
-
-- **Dynamic graph algorithms** — reachability, shortest paths, and the papers you *must* read
-
----
-
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
@@ -50,13 +32,6 @@ to whoever needs one (yes, symbolically and literally).
 | [avl_tree](https://github.com/ThomasGraceman/avl_tree) | AVL tree implementation |
 | [ml-quant-finance-training](https://github.com/ThomasGraceman/ml-quant-finance-training) | Training in ML for finance & algo trading |
 
-
----
-
-## 🎯 Quick facts
-
-- 📫 Reach me via my [website](https://thomasgraceman.github.io/)
-- ⚡ Fun fact: my worst-case setup time is **O(1)**, the kettle is always on.
 
 <div align="center">
 
