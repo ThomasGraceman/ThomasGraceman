@@ -20,18 +20,6 @@
 
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
 
----
-
-## 🗂️ Highlighted repos
-
-| Repo | What it is |
-|------|-----------|
-| [Dynamic-Algorithms-must-read-papers](https://github.com/ThomasGraceman/Dynamic-Algorithms-must-read-papers) | The must-read papers & greatest results in dynamic algorithms |
-| [quantization_note](https://github.com/ThomasGraceman/quantization_note) | Notes on quantizing large language models |
-| [diffusion-notes](https://github.com/ThomasGraceman/diffusion-notes) | What I've learned about diffusion models |
-| [avl_tree](https://github.com/ThomasGraceman/avl_tree) | AVL tree implementation |
-| [ml-quant-finance-training](https://github.com/ThomasGraceman/ml-quant-finance-training) | Training in ML for finance & algo trading |
-
 
 <div align="center">
 
