@@ -37,7 +37,6 @@ to whoever needs one (yes, symbolically and literally).
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
-![LaTeX](https://img.shields.io/badge/LaTeX-%2314354C?style=for-the-badge&logo=latex&logoColor=white&labelColor=008080&color=008080)
 
 ---
 
@@ -51,18 +50,6 @@ to whoever needs one (yes, symbolically and literally).
 | [avl_tree](https://github.com/ThomasGraceman/avl_tree) | AVL tree implementation |
 | [ml-quant-finance-training](https://github.com/ThomasGraceman/ml-quant-finance-training) | Training in ML for finance & algo trading |
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThomasGraceman&show_icons=true&hide_border=true&icon_color=4338CA&title_color=4338CA&bg_color=0d1117&text_color=c9d1d9&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasGraceman&layout=compact&hide_border=true&title_color=4338CA&bg_color=0d1117&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasGraceman&hide_border=true&background=0d1117&stroke=4338CA&ring=4338CA&fire=F87171&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4338CA&sideLabels=c9d1d9&dates=8b949e" />
-</p>
 
 ---
 
