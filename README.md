@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Thomas "Bartender" Graceman
+# ☕  Taha "Bartender" Hoseinpour 
 
 ### Taha Hoseinpour · Theoretical Computer Science @ Sharif University of Technology (SUT)
 
