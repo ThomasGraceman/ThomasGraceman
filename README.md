@@ -4,7 +4,7 @@
 
 ### Taha Hoseinpour · Theoretical Computer Science @ Sharif University of Technology (SUT)
 
-*Your local bartender — serving coffee, and occasionally a nice reduction or two.*
+*Your local bartender, serving coffee, and occasionally a nice reduction or two.*
 
 <br>
 
