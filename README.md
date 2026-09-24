@@ -25,18 +25,12 @@ When I'm not staring at complexity bounds, I'm the neighborhood bartender — se
 to whoever needs one (yes, symbolically and literally).
 
 - 🎓 Studying **Theoretical Computer Science** at **Sharif University of Technology**
-- 🧠 Deeply into **algorithms, complexity & math**
-- ☕ Fueled by coffee — it's the only amortized constant in my life
 
 ---
 
 ## 🔭 What I'm focusing on
 
 - **Dynamic graph algorithms** — reachability, shortest paths, and the papers you *must* read
-- **LLM quantization** — shaving bits off massive models
-- **Diffusion models** — from theory to notebooks
-- **Consistent hashing & distributed systems** — in Rust, of course
-- **ML for quantitative finance** — algo trading experiments
 
 ---
 
@@ -74,10 +68,8 @@ to whoever needs one (yes, symbolically and literally).
 
 ## 🎯 Quick facts
 
-- 🔭 Currently diving into **dynamic graph reachability**
-- 🌱 Learning **Rust** and **distributed systems**
 - 📫 Reach me via my [website](https://thomasgraceman.github.io/)
-- ⚡ Fun fact: my worst-case setup time is **O(1)** — the kettle is always on.
+- ⚡ Fun fact: my worst-case setup time is **O(1)**, the kettle is always on.
 
 <div align="center">
 
